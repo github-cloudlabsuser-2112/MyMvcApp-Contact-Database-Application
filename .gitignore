@@ -1,0 +1,62 @@
+# .NET Core
+bin/
+obj/
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Mono Auto Generated Files
+mono_crash.*
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# VS Code directories
+.vscode/
+.vscode-test/
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# DotNetToolSettings
+.dotnet_toolchain/
+
+# StyleCop
+StyleCopReport.xml
+
+# Backup & report files from converting an old project file to a newer
+# format, or upgrading to Visual Studio 2017
+*.Backup
+*.Report
+
+# NCrunch
+_NCrunch_*
+.*crunch*.local.xml
+
+# User-specific files (Mono Auto Generated Files)
+mono_crash.*
+
+# JetBrains Rider
+.idea/
+*.sln.iml
+
+# CodeRush
+.cr/
+
+# Python Tools for Visual Studio (PTVS)
+__pycache__/
+*.pyc
